@@ -1,4 +1,4 @@
-FROM alphine
+FROM alpine
 
 RUN apk update
 RUN apk add nodejs
